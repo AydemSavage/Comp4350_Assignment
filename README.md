@@ -1,5 +1,6 @@
 # Comp 4350 Assingment
-This web app calls the Stackoverflow API and displays its information (_*Not complete_)
+This web app calls the Stackoverflow API and displays its information (_*Not complete_)  
+Docker hub link: [https://hub.docker.com/r/aydemcodes/comp4350assignment](https://hub.docker.com/r/aydemcodes/comp4350assignment)
 
 ## How to run the program
 1. Pull the image from Docker hub using the command `docker pull aydemcodes/comp4350assignment`
