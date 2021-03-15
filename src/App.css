@@ -1,0 +1,55 @@
+body {
+  color: black;
+  font-size: 20px;
+  background-color: rgb(212, 212, 212);
+}
+
+header {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+.search-bar {
+  font-size: 20px;
+}
+
+.search-label {
+  margin-right: 0.5rem;
+}
+
+.search-button {
+  background-color: rgb(26, 100, 173);
+  margin-left: 0.5rem;
+  border: none;
+  color: white;
+  padding: 3px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.post {
+  background-color: rgb(145, 194, 243);
+  color: black;
+  cursor: pointer;
+  padding-left: 20px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin: 2rem;
+  width: 80%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+}
+
