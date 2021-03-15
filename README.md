@@ -8,5 +8,5 @@ Docker hub link: [https://hub.docker.com/r/aydemcodes/comp4350assignment](https:
 3. Now open [https://localhost:3000](https://localhost:3000)
 
 ## How it works
-1. Onces on the website you can type a tag in the search, then submit
+1. Once on the website you can type a tag in the search, then submit
 2. A list of 10 most recent responses will apear, clicking on them will direct you to the original post.
